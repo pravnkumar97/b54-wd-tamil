@@ -1,0 +1,9 @@
+write a blog about javascript
+
+1.JavaScript is the Programming Language for the Web.
+
+2.JavaScript can update and change both HTML and CSS.
+
+3.JavaScript can calculate, manipulate and validate data.
+
+4.A JavaScript developer is responsible for implementing the front-end logic that defines the behavior of the visual elements of a web application.
